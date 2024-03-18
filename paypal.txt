@@ -8,7 +8,7 @@
   "facebookBannerId3": "782377149958119_782529403276227",
   "facebookBannerId4": "782377149958119_782529403276227",
   "facebookBannerId5": "782377149958119_782529403276227",
-  "facebookBannerVisible": false,
+  "facebookBannerVisible": true,
   "facebookInterstitial1": "782377149958119_782529653276202",
   "facebookInterstitial2": "782377149958119_782529653276202",
   "facebookInterstitial3": "782377149958119_782529653276202",
@@ -19,7 +19,7 @@
   "facebookNativeId3": "782377149958119_782529819942852",
   "facebookNativeId4": "782377149958119_782529819942852",
   "facebookNativeId5": "782377149958119_782529819942852",
-  "facebookNativeVisible":false,
+  "facebookNativeVisible":true,
   "googleAppOpenAd": "ca-app-pub-3940256099942544/9257395921",
   "googleBannerId1": "ca-app-pub-3940256099942544/6300978111",
   "googleBannerId2": "ca-app-pub-3940256099942544/6300978111",
@@ -49,7 +49,7 @@
   "nativeImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH__kzhn1GYGq4sNpqSLt2fGKW1XkMWFw5iUgogqEI7G-tPfNFwMUWs2pv7zN0kDbIhck&usqp=CAU",
   "nativeUrl": "https://play25.qureka.com/intro/question",
   "priority": "facebook",
-  "showAd":false,
+  "showAd":true,
   "toBeClicked": 1,
   "totalIntro": 5
   }
